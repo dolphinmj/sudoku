@@ -17,4 +17,4 @@ Features:
 * Use CSS Custom properties to keep the stylesheet DRY.
 * Understand how functions can be sent down as `props` and consumed.
 
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y21VCIL)
+Forked from ![raravi/sudoku](https://github.com/raravi/sudoku)
